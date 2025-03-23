@@ -5,7 +5,7 @@ const SideComponent = () => {
     
 
 <div style={{ width: '100%', height: '600px', position: 'relative' }}>
-  side component
+  <img src='https://static.vecteezy.com/system/resources/previews/011/356/168/original/young-boy-and-girl-doing-online-chatting-3d-character-illustration-png.png'/>
 </div>
   );
 };
